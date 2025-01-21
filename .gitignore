@@ -1,0 +1,6 @@
+.nextflow
+.nextflow.log
+.idea/
+*.log
+*.bak
+

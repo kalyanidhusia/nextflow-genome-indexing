@@ -1,5 +1,7 @@
+.nextflow
 .nextflow.log*
 .idea/
 *.log
 *.bak
-
+*.sh
+./work/*

@@ -1,0 +1,2 @@
+2025-01-21 16:20:37	4.4s	silly_baekeland	ERR	e5853cc01fdd08a06750c54ee15b9153	cd77db4d-49c7-49aa-8667-2e5d3f46fa55	nextflow run script1.nf
+2025-01-21 16:21:47	4.5s	shrivelled_booth	OK	0f6b01487004057f2a2afc0849486dc2	203ac7dc-464f-4358-8a1e-18b4f959c1c8	nextflow run script1.nf -profile docker

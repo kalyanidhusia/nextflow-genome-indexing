@@ -28,5 +28,6 @@ workflow {
 ref_ch=Channel.fromPath(params.ref)
 
 index(ref_ch)
-
+//to print the path for index files
+index.out.view()
 }

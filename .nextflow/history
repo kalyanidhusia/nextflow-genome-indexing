@@ -12,3 +12,4 @@
 2025-01-21 19:21:57	4.8s	wise_volhard	OK	44dd3c49a01958b296de8bc3dfecad7a	f5480037-57c8-43a9-b1f0-286889421639	nextflow run script2.nf
 2025-01-21 19:37:28	3.2s	awesome_roentgen	ERR	a93b752edbea06237dae5fdd4820d8ac	5ee1f7d2-100c-4e91-8ca0-d2309bd71435	nextflow run script2.nf
 2025-01-21 19:37:58	5.5s	astonishing_pesquet	OK	6ff9f8bbaa9350a77a907abc70e49c7d	dd592ccc-9986-4cc4-a598-4b01c4458ca9	nextflow run script2.nf
+2025-01-22 09:46:37	5.7s	extravagant_allen	OK	497da8a0dca719362c61393ad473e30f	a6001b0c-1166-4de0-bb29-8f9c26705bcb	nextflow run script3.nf

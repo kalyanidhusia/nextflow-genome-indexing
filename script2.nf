@@ -9,7 +9,7 @@ input:
  path genome
 
 output:
-path "*"
+ path "*"
 
 script:
 """

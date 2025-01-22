@@ -15,3 +15,6 @@
 2025-01-22 09:46:37	5.7s	extravagant_allen	OK	497da8a0dca719362c61393ad473e30f	a6001b0c-1166-4de0-bb29-8f9c26705bcb	nextflow run script3.nf
 2025-01-22 09:57:06	-	berserk_mestorf	-	41251b71238c33d351b38200e9a97bd2	b995951f-74a3-4758-b4a3-c8354d874824	nextflow run script3.nf
 2025-01-22 09:57:50	5.2s	nostalgic_thompson	OK	74d2dda1986d815fe35fe833f88cfdb2	2d354a94-4bd4-48d6-a8a8-0dc3052f55a6	nextflow run script3.nf
+2025-01-22 11:53:21	-	stupefied_fermi	-	d7a488cf7173cbcb5a96560b70d6e5bd	b0f6034c-9e84-4d04-9546-2b516fb39582	nextflow run script4.nf
+2025-01-22 11:54:17	-	modest_jones	-	1113dab1d0658979c17fbb5ca7e48995	eba0807f-2fea-4aee-8761-0ed5100390dc	nextflow run script4.nf
+2025-01-22 11:55:14	5.1s	naughty_brown	OK	787646e0537f9de637f4603e810440c9	328ae933-f6d5-4b9f-bb42-7a9b40e70fda	nextflow run script4.nf

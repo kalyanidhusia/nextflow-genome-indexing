@@ -25,3 +25,4 @@
 2025-01-22 12:36:46	4.5s	fervent_goldberg	OK	5d7482880f9846f439fb18e7eb515ea1	f3b35522-3990-462f-9364-2e38b28c5fb6	nextflow run script5.nf
 2025-01-22 12:40:01	4.5s	wise_fermi	OK	d40548802f771d6db03f17ee25d1158e	4b3f420c-8633-49a6-a5c2-70aff1b3c92e	nextflow run script5.nf
 2025-01-22 12:42:28	4.8s	fervent_noyce	OK	0937f24591892f3706380488836c27cd	50784b6d-cb8e-42a9-adeb-957af0c56f77	nextflow run script5.nf
+2025-01-22 14:43:17	6s	stupefied_meitner	OK	0937f24591892f3706380488836c27cd	871b998f-9174-4102-b68f-f9236a03cc87	nextflow run script5.nf -with-dag genome_index.html

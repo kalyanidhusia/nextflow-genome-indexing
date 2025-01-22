@@ -12,7 +12,6 @@ bwa index $genome
 
 """
 
-
 }
 
 workflow {

@@ -3,3 +3,8 @@
 2025-01-21 16:25:17	4.9s	boring_spence	OK	0f6b01487004057f2a2afc0849486dc2	017ccfa8-81de-4fc0-b80c-9ce6fb21bd8b	nextflow run script1.nf
 2025-01-21 18:19:17	5s	marvelous_edison	OK	2eb023f53473050b9489171127fb1fa3	aebc93db-7fbb-4e95-ae5b-d9d2e613d445	nextflow run script2.nf
 2025-01-21 18:28:50	3.5s	pedantic_brown	ERR	92570fadfd2f96aee70dfa24a7b362ad	95cfc339-6164-477d-8550-bdbf261ea2a7	nextflow run script2.nf
+2025-01-21 18:44:04	3.9s	scruffy_golick	ERR	af73e769d0e1856a7ec9b385ac96ab3c	9ca7a712-73c1-41cd-9d98-578beaa9ea89	nextflow run script2.nf
+2025-01-21 18:49:24	4.1s	maniac_pauling	ERR	5bf094f8c9abd41a413c85af759ba756	724ceadf-e731-40f9-981f-7919c2f803fb	nextflow run script2.nf
+2025-01-21 18:50:54	3.8s	marvelous_kalam	ERR	84586e0eaeb9d351eef3b864ff9688b2	22c624e4-7362-4ec0-92ca-64dc4ec594fc	nextflow run script2.nf
+2025-01-21 18:55:01	4s	jovial_bhabha	ERR	d6a577816364552964867df96e32a8af	aaaf595d-be2f-4a22-bcd0-1fec703f4b75	nextflow run script2.nf
+2025-01-21 18:57:10	3.6s	admiring_linnaeus	ERR	1a2abee5225055de00c44ac8b8e4e443	8b14715b-5f26-4e09-82ac-c6834ab8166d	nextflow run script2.nf

@@ -33,3 +33,10 @@ After running the pipeline, the index files (such as `.bwt`, `.pac`, `.ann`, `.s
 
 We can then just change the `params.index_dir` to ref folder and all will be saved in one folder.
 
+### Updates to Indexing Process
+
+1. **BWA Index and SAMtools faidx Integration**: The pipeline now runs both `bwa index` and `samtools faidx` on the input FASTA file to generate all necessary index files.
+2. **Centralized File Management**: All generated index files (`.ann`, `.bwt`, `.pac`, `.sa`, `.fai`, etc.) and the original FASTA file are saved in a single directory specified by `params.index_dir`.
+3. **Improved Workflow**: The script automatically moves all relevant files to the specified directory for streamlined organization and easier downstream access.
+
+

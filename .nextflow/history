@@ -20,3 +20,8 @@
 2025-01-22 11:55:14	5.1s	naughty_brown	OK	787646e0537f9de637f4603e810440c9	328ae933-f6d5-4b9f-bb42-7a9b40e70fda	nextflow run script4.nf
 2025-01-22 12:10:30	5.6s	naughty_rutherford	OK	56d9ca48e5a6029254719df1a846b7ea	15ad75f3-eb43-4b5b-b06b-8b0f31ddecc5	nextflow run script4.nf
 2025-01-22 12:24:25	5.3s	adoring_heisenberg	OK	56d9ca48e5a6029254719df1a846b7ea	5c8cb549-e00c-4512-a787-d891ed6cf149	nextflow run script4.nf
+2025-01-22 12:31:05	3.2s	peaceful_roentgen	ERR	c0a339bd391475b13651f9c635fa2289	deffa5a6-97b0-4b22-8c5c-f8a2bc239304	nextflow run script5.nf
+2025-01-22 12:36:14	5.1s	sleepy_boyd	OK	5d7482880f9846f439fb18e7eb515ea1	afd25858-1758-4e3b-9f66-0193fa527153	nextflow run script5.nf
+2025-01-22 12:36:46	4.5s	fervent_goldberg	OK	5d7482880f9846f439fb18e7eb515ea1	f3b35522-3990-462f-9364-2e38b28c5fb6	nextflow run script5.nf
+2025-01-22 12:40:01	4.5s	wise_fermi	OK	d40548802f771d6db03f17ee25d1158e	4b3f420c-8633-49a6-a5c2-70aff1b3c92e	nextflow run script5.nf
+2025-01-22 12:42:28	4.8s	fervent_noyce	OK	0937f24591892f3706380488836c27cd	50784b6d-cb8e-42a9-adeb-957af0c56f77	nextflow run script5.nf

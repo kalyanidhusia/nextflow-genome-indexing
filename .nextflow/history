@@ -18,3 +18,5 @@
 2025-01-22 11:53:21	-	stupefied_fermi	-	d7a488cf7173cbcb5a96560b70d6e5bd	b0f6034c-9e84-4d04-9546-2b516fb39582	nextflow run script4.nf
 2025-01-22 11:54:17	-	modest_jones	-	1113dab1d0658979c17fbb5ca7e48995	eba0807f-2fea-4aee-8761-0ed5100390dc	nextflow run script4.nf
 2025-01-22 11:55:14	5.1s	naughty_brown	OK	787646e0537f9de637f4603e810440c9	328ae933-f6d5-4b9f-bb42-7a9b40e70fda	nextflow run script4.nf
+2025-01-22 12:10:30	5.6s	naughty_rutherford	OK	56d9ca48e5a6029254719df1a846b7ea	15ad75f3-eb43-4b5b-b06b-8b0f31ddecc5	nextflow run script4.nf
+2025-01-22 12:24:25	5.3s	adoring_heisenberg	OK	56d9ca48e5a6029254719df1a846b7ea	5c8cb549-e00c-4512-a787-d891ed6cf149	nextflow run script4.nf

@@ -8,3 +8,4 @@
 2025-01-21 18:50:54	3.8s	marvelous_kalam	ERR	84586e0eaeb9d351eef3b864ff9688b2	22c624e4-7362-4ec0-92ca-64dc4ec594fc	nextflow run script2.nf
 2025-01-21 18:55:01	4s	jovial_bhabha	ERR	d6a577816364552964867df96e32a8af	aaaf595d-be2f-4a22-bcd0-1fec703f4b75	nextflow run script2.nf
 2025-01-21 18:57:10	3.6s	admiring_linnaeus	ERR	1a2abee5225055de00c44ac8b8e4e443	8b14715b-5f26-4e09-82ac-c6834ab8166d	nextflow run script2.nf
+2025-01-21 19:06:36	4.6s	evil_spence	OK	30d216d27afecedd8845b42e5639035a	e925bbf1-fa5a-40b2-a879-8fa7e77dc777	nextflow run script1.nf

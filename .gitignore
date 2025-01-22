@@ -4,4 +4,4 @@
 *.log
 *.bak
 *.sh
-./work/*
+work/

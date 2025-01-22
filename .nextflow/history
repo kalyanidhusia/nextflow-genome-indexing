@@ -2,3 +2,4 @@
 2025-01-21 16:21:47	4.5s	shrivelled_booth	OK	0f6b01487004057f2a2afc0849486dc2	203ac7dc-464f-4358-8a1e-18b4f959c1c8	nextflow run script1.nf -profile docker
 2025-01-21 16:25:17	4.9s	boring_spence	OK	0f6b01487004057f2a2afc0849486dc2	017ccfa8-81de-4fc0-b80c-9ce6fb21bd8b	nextflow run script1.nf
 2025-01-21 18:19:17	5s	marvelous_edison	OK	2eb023f53473050b9489171127fb1fa3	aebc93db-7fbb-4e95-ae5b-d9d2e613d445	nextflow run script2.nf
+2025-01-21 18:28:50	3.5s	pedantic_brown	ERR	92570fadfd2f96aee70dfa24a7b362ad	95cfc339-6164-477d-8550-bdbf261ea2a7	nextflow run script2.nf
